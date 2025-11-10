@@ -1,3 +1,9 @@
 .vscode/
 dg_server
 dg_client
+vc_server
+vc_client
+hello.txt
+test1.txt
+test2.txt
+testupload.txt
